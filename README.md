@@ -19,7 +19,7 @@ Final — Certification Exam L1: P2-GAPS — General Agent Problem Solving and P
 
 [Slides/Module-11-Problem-Solving With General Agents/.pptx](https://docs.google.com/presentation/d/1u8qzCyD-DyXnvGFjnm1hfdAfLajwoMWEjdAojUclak4/edit?slide=id.p5#slide=id.p5)
 
-## Module 12 — OpenClaw with General Agents:
+## Module 12 — OpenClaw with General Agents
 
 [Slides/Module 12 — OpenClaw with General Agents/.pptx](https://docs.google.com/presentation/d/16WHoEmUi-mHBulxewZcCO18-Ki9qD65dsDvxEnfnUQw/edit?slide=id.p1#slide=id.p1)
 
@@ -29,5 +29,21 @@ Final — Certification Exam L1: P2-GAPS — General Agent Problem Solving and P
 
 # Test Your Preparation:
 
-[Solve MCQ's to test your Module-09-Driving-General-Agents Preparation](https://claude.ai/share/c4ef672f-b004-4cb7-8ca7-06b1a93a27d4)
+## Module-08-Thesis:
+[Solve MCQ's to test your Module-08-Thesis Preparation](https://hot-yellow-kzrhwfmv.edgeone.dev/)
+
+## Module-09-Driving-General-Agents:
+[Solve MCQ's to test your Module-09-Driving-General-Agents Preparation](https://integral-purple-atn895tn.edgeone.dev/)
+
+## Module-10-Spec-Driven-Development:
+[Solve MCQ's to test your Module-10-Spec-Driven-Development Preparation](https://zestful-beige-c5ryx9jh.edgeone.dev/)
+
+## Module-11-Problem-Solving With General Agents:
+[Solve MCQ's to test your Module-11-Problem-Solving With General Agents Preparation](https://amused-amber-lktvgg8r.edgeone.dev/)
+
+## Module 12 — OpenClaw with General Agents:
+[Solve MCQ's to test your Module 12 — OpenClaw with General Agents Preparation](https://respective-amethyst-rtvekqkw.edgeone.dev/)
+
+## Module 13 — The Operating Layer:
+[Solve MCQ's to test your Module 13 — The Operating Layer Preparation](https://premier-indigo-xbcszykh.edgeone.dev/)
 
